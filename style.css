@@ -1,0 +1,27 @@
+body { 
+    background-color: white;
+    border: 20PX;
+    display: block;
+    align-items: center;
+    font-size: 25px;
+}
+
+.TABLA {
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+.TABLA table {
+    margin: 0 auto;
+    border: 2px solid rgb(109, 77, 51);
+    text-align: center;
+    border-collapse: collapse;
+   /* background: url(./Elementos/hermosa-playa-arena-fondo_63047-905.png);*/
+   background-color: rgb(255, 255, 255);
+   color: rgb(109, 77, 51);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+    color: rgb(151, 107, 71);
+}
